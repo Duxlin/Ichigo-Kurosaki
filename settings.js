@@ -1,5 +1,5 @@
 /**
-   * Made By Fandyyy 🕴️
+   * Made By Dux 🕴️
    * Subscribe FBOTZ YT
    * Follow https://instagram.com/_nzrlafndi
    * Follow https://github.com/FBOTZ-YT
@@ -9,9 +9,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6281540022632','6287877173955','0']
+global.ownerNumber = ['2347082252014','2349150538944','0']
 global.ownerName = 'Whatsapp Developer'
-global.packname = 'Ichigo Kurosaki'
+global.packname = 'Dux-Bot'
 global.author = 'Whatsapp Bot 2022'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
